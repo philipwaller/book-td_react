@@ -1,5 +1,5 @@
-// palindromes.test.js
-const palindromes = require('./palindromes')
+// tests/palindromes.test.js
+const palindromes = require('../palindromes')
 
 describe('palindromes()', () => {
 
